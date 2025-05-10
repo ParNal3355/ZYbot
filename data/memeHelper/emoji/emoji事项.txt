@@ -1,0 +1,8 @@
+相关插件github地址（mirai插件）：https://github.com/cssxsh/meme-helper
+emoji文件下载地址：
+https://mirror.ghproxy.com/https://github.com/xsalazar/emoji-kitchen-backend/archive/main.zip
+or
+https://github.com/xsalazar/emoji-kitchen-backend/archive/main.zip
+
+下载解压后需要将解压后的文件夹命名为emoji-kitchen-backend-main
+只需要其中的app/metadata.json
