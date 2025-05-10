@@ -13,9 +13,9 @@
 - JDK 17+
 
 ## 🚀 快速开始
-1.克隆该项目
-2.根据 [SimpleRobot-Bot配置文件部分](https://simbot.forte.love/component-qq-guild-bot-config.html) 配置机器人信息
-3.启动项目
+- 1.克隆该项目
+- 2.根据 [SimpleRobot-Bot配置文件部分](https://simbot.forte.love/component-qq-guild-bot-config.html) 配置机器人信息
+- 3.启动项目
 
 ## 📦 打包部署
 ```bash
@@ -29,10 +29,10 @@ mvn clean package
 ```
 
 ## 📜 协议声明
-核心框架依赖 [simpler-robot](https://github.com/simple-robot/simpler-robot) (LGPL-3.0)
-本项目遵循 [LGPL-3.0 协议](LICENSE)，您可以在根目录查看完整协议文本。
-📌重要声明：
-1. 您有权通过以下方式获取simpler-robot项目源代码：
+- 核心框架依赖 [simpler-robot](https://github.com/simple-robot/simpler-robot) (LGPL-3.0)
+- 本项目遵循 [LGPL-3.0 协议](LICENSE)，您可以在根目录查看完整协议文本。
+- 📌重要声明：
+您有权通过以下方式获取simpler-robot项目源代码：
    ```bash
    git clone https://github.com/simple-robot/simpler-robot.git
    ```
